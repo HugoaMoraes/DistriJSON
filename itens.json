@@ -2,7 +2,7 @@
     {
         "id": "1",
         "nome": "Coca‑Cola Lata 350 ml",
-        "preco": "3.59",
+        "preco": " R$ 3.59 ",
         "imagem": "https://bretas.vtexassets.com/arquivos/ids/201501-800-auto?v=638376352002870000&width=800&height=auto&aspect=true",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -15,7 +15,7 @@
     {
         "id": "2",
         "nome": "Pepsi Lata 350 ml",
-        "preco": "3.49",
+        "preco": " R$ 3.49 ",
         "imagem": "https://prezunic.vtexassets.com/arquivos/ids/191849-800-auto?v=638369662861900000&width=800&height=auto&aspect=true",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -28,7 +28,7 @@
     {
         "id": "3",
         "nome": "Heineken Garrafa 330 ml",
-        "preco": "4.99",
+        "preco": " R$ 4.99 ",
         "imagem": "https://www.clubeextra.com.br/img/uploads/1/13/24145013.jpg",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -41,7 +41,7 @@
     {
         "id": "4",
         "nome": "Skol Lata 350 ml",
-        "preco": "3.79",
+        "preco": " R$ 3.79 ",
         "imagem": "https://coopsp.vtexassets.com/arquivos/ids/232264/Novo-Projeto---2023-03-30T174813.585.jpg?v=638158061380170000",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -54,7 +54,7 @@
     {
         "id": "5",
         "nome": "Guaraná Antarctica Garrafa 2 L",
-        "preco": "7.49",
+        "preco": " R$ 7.49 ",
         "imagem": "https://carrefourbrfood.vtexassets.com/arquivos/ids/106437065/refrigerante-guarana-antarctica-garrafa-2l-2.jpg?v=638144885948670000",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -67,7 +67,7 @@
     {
         "id": "6",
         "nome": "Água Mineral 500 ml",
-        "preco": "2.00",
+        "preco": " R$ 2.00 ",
         "imagem": "https://www.imigrantesbebidas.com.br/bebida/images/products/full/2893-agua-mineral-crystal-sem-gas-500ml.jpg",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -80,7 +80,7 @@
     {
         "id": "7",
         "nome": "Suco de Laranja 1 L",
-        "preco": "9.99",
+        "preco": " R$ 9.99 ",
         "imagem": "https://www.piramidesdistribuidora.com.br/images/products/11100-del-valle-laranja-tetrapak-1l-6un.20250604092403.png",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -93,7 +93,7 @@
     {
         "id": "8",
         "nome": "Red Bull 250 ml",
-        "preco": "7.99",
+        "preco": " R$ 7.99 ",
         "imagem": "https://superprix.vteximg.com.br/arquivos/ids/175259/Bebida-Energetica-Red-Bull-250ml.png?v=636299404178930000",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -106,7 +106,7 @@
     {
         "id": "9",
         "nome": "Monster 473 ml",
-        "preco": "8.99",
+        "preco": " R$ 8.99 ",
         "imagem": "https://andinacocacola.vtexassets.com/arquivos/ids/158541/112666_COCA---MONSTER_GREEN__LT_473ML.jpg?v=638647931620700000",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -119,7 +119,7 @@
     {
         "id": "10",
         "nome": "Cachaça 51 1 L",
-        "preco": "24.99",
+        "preco": " R$ 24.99 ",
         "imagem": "https://cdn.awsli.com.br/800x800/2577/2577773/produto/216608812/cacha-a-51-tradicional-965ml-1-u1op892pag.jpg",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -132,7 +132,7 @@
     {
         "id": "11",
         "nome": "Vodka Smirnoff 1 L",
-        "preco": "39.99",
+        "preco": " R$ 39.99 ",
         "imagem": "https://dcdn-us.mitiendanube.com/stores/002/905/426/products/vodka-smirnoff-red-1l-3724fb0936df2ba88a16970409689845-640-0.jpg",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -145,7 +145,7 @@
     {
         "id": "12",
         "nome": "Whisky Johnnie Walker Red Label 1 L",
-        "preco": "89.90",
+        "preco": " R$ 89.90 ",
         "imagem": "https://emporiomilao.com.br/wp-content/uploads/2024/09/whisky_jhonnie_walker_red_label_750ml.webp",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -158,7 +158,7 @@
     {
         "id": "13",
         "nome": "Vinho Tinto 750 ml",
-        "preco": "45.00",
+        "preco": " R$ 45.00 ",
         "imagem": "https://cdn.dooca.store/1390/products/vinho-saint-germain-assemblage-tinto_640x640+fill_ffffff.png?v=1676398961&webp=0",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -171,7 +171,7 @@
     {
         "id": "14",
         "nome": "Gelo 1 kg",
-        "preco": "3.00",
+        "preco": " R$ 3.00 ",
         "imagem": "https://cdn.awsli.com.br/2688/2688084/produto/248808399/gelo-1kg-8208d5fe-5epoyp8qav.png",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -184,7 +184,7 @@
     {
         "id": "15",
         "nome": "Gatorade 500 ml",
-        "preco": "6.50",
+        "preco": " R$ 6.50 ",
         "imagem": "https://dmvfarma.vtexassets.com/arquivos/ids/172729/7892840808464_1.jpg?v=637598054112630000",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
@@ -197,7 +197,7 @@
     {
         "id": "16",
         "nome": "Chá Mate 1 L",
-        "preco": "5.99",
+        "preco": " R$ 5.99 ",
         "imagem": "https://hiperideal.vtexassets.com/arquivos/ids/197292/198981.jpg?v=637825365645100000",
         "data_inicio": "6/11/25",
         "data_fim": "6/11/25",
