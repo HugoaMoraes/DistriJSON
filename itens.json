@@ -9,7 +9,7 @@
     "destaque": "FALSE",
     "descricao": "Refrigerante clássico em lata.",
     "imagem_cabecalho": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7draL6G2Z6DOU7bBHh8ofcMGmRM_GZ8mhQ&s",
-    "modal": "FALSE",
+    "modal": "TRUE",
     "modal_img": "https://i.ibb.co/xK4Zr8BH/Social-media-stories-here-has-savings-for-products-on-great-deals-1.webp"
   },
   {
@@ -35,7 +35,7 @@
     "destaque": "FALSE",
     "descricao": "Cerveja Heineken em garrafa.",
     "imagem_cabecalho": "https://www.caviarcriativo.com/storage/2025/01/Significados-da-Marca-Heineken-1.jpg",
-    "modal": "FALSE",
+    "modal": "TRUE",
     "modal_img": "https://i.ibb.co/xK4Zr8BH/Social-media-stories-here-has-savings-for-products-on-great-deals-1.webp"
   },
   {
